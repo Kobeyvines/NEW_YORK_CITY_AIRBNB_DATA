@@ -1,2 +1,4 @@
 .env
 AB_NYC_2019.csv
+.pre-commit-cache/
+.pre-commit-hooks/ 
