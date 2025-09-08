@@ -1,4 +1,46 @@
+# mine
 .env
 AB_NYC_2019.csv
 .pre-commit-cache/
 .pre-commit-hooks/ 
+
+
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+.kaggle_spotify_dataset/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.parquet
+*.xlsx
+
+# Logs and outputs
+*.log
+*.out
+*.err
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pre-commit / nbstripout cache
+*.bak
